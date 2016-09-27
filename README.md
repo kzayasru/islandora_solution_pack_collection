@@ -20,9 +20,10 @@ Install as usual, see [this](https://drupal.org/documentation/install/modules-th
 
 ## Configuration
 
-Set the default number of collection objects per page, view style, and configuration options in Administration » Islandora » Core Collection (admin/islandora/basic_collection).
+Set the default number of collection objects per page, view style, display generation, objects per page during collection management, metadata display, and configuration options in Administration » Islandora » Core Collection (admin/islandora/basic_collection).
 
-![Configuration](https://camo.githubusercontent.com/958f89366034b33cba99001504146f8f3496bac9/687474703a2f2f692e696d6775722e636f6d2f563570777430612e706e67)
+![Configuration]
+(https://cloud.githubusercontent.com/assets/16311700/18891425/2f7d94ba-84d3-11e6-9a52-8cd39c368223.png)
 
 ## Documentation
 
